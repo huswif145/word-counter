@@ -1,0 +1,23 @@
+{
+  "name": "my-word-counterkkk",
+  "version": "1.0.0",
+  "description": "word counter",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "my-word-counter": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rimsha Ather",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.12"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
